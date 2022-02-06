@@ -1,0 +1,32 @@
+1) To-do list app
+2) Note taking app
+3) Calendar application
+4) Chat System
+5) Weather Application
+6) Portfolio webSite
+7) Image search
+8) Chess Game
+9) Donation WebSite
+10) BudgetTracker
+11) Tic Tac toe Game
+12) Form Validator
+13) Web Scraper
+14) Simple FTP Client
+15) Port Scanner
+16) MP3 Player
+17) Tetris Game
+18) Netflix clone
+19) Discord bot
+20) Video Chat System
+21) Pacman Game
+22) Alarm Clock
+23) Stock Trading app
+24) Issue tracker
+25) Music store app
+26) Twitter bot
+27) Spam classifier
+28) Content agregator
+29) Snake Game
+30) File manager
+31) Приложение для отправки воды
+
